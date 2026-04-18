@@ -2,4 +2,4 @@
 /.vscode/
 /venv/
 /csv_files
-/2_TOP_PAYING_ROLES.csv
+project_sql/2_TOP_PAYING_ROLES.csv
